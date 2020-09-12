@@ -1,4 +1,9 @@
 # CdaMultiplication
+
+**This is currently incorrect.**
+The source this is produced from ends up creating a somewhat different algebra than what is created with Cayley-Dickson construction.  I'm currently unable to determine how to correct it and the algebra it creates works for my desired purpose so for now it is in an incomplete state.
+
+
 Algorithm for multiplying Cayley-Dickson algebras of arbitrary size.
 
 Basic formula is from https://arxiv.org/abs/1602.02317v1 with thanks to https://math.stackexchange.com/questions/1178681/cayley-dickson-construction-a-general-rule-for-multiplying-imaginary-units.
