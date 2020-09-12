@@ -1,0 +1,19 @@
+{
+  "name": "cda-multiplication",
+  "version": "1.0.0",
+  "description": "Algorithm for calculating the unit *-ion from the sign of two unit *-ion in Cayley-Dickson algebra.",
+  "main": "cdaMultiplication.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lawtonfogle/CdaMultiplication.git"
+  },
+  "author": "Adam Fogle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lawtonfogle/CdaMultiplication/issues"
+  },
+  "homepage": "https://github.com/Lawtonfogle/CdaMultiplication#readme"
+}
